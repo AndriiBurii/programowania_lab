@@ -1,0 +1,5 @@
+print(int(3.0))
+print(float(3.0))
+print(float("3"))
+print(str(12.4))
+print(bool(0))
